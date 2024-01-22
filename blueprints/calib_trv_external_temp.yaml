@@ -41,7 +41,7 @@ blueprint:
           min: -10
           max: 10
           step: 0.1
-  source_url: https://github.com/LukasVyhlidka/HAMoesTrvAutomations/blob/main/blueprints/calib_trv_external_temp.yaml
+  source_url: https://github.com/ivansurov/HAMoesTrvAutomations/edit/main/blueprints/calib_trv_external_temp.yaml
 alias: Calibrate Moes TRVs
 description: ''
 variables:
