@@ -48,6 +48,7 @@ variables:
   climate_names: !input climate_names
   external_temperature: !input external_temp
   offset_factor: !input offset_factor
+  callibration_range_value: !input callibration_range_value
 trigger:
 - platform: state
   entity_id: !input external_temp
